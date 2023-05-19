@@ -3,6 +3,8 @@
 
 This is an AI bot that learns to play the game Flappy Bird by itself. It use the [NEAT](https://neat-python.readthedocs.io/en/latest/) module in python to achieve this. Apart from this module, I have also used pygame to actually make the Flappy Bird game itself.
 
+[Online Deployment for running the application in your browser](https://replit.com/@notkshitijsingh/neat-flappy-bird?v=1)
+
 # Installation
 
 1. Download the code in a ZIP format and unzip it in a folder of your choice.
